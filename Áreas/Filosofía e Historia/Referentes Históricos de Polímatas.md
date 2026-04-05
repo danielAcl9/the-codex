@@ -1,0 +1,5 @@
+- **Leonardo da Vinci** — pintura, anatomía, ingeniería, geología
+- **Leibniz** — matemáticas, filosofía, derecho, historia
+- **Benjamin Franklin** — política, física, escritura, invención
+- **Hildegard von Bingen** — música, medicina, teología, botánica
+- **Alexander von Humboldt** — botánica, geología, astronomía, geografía

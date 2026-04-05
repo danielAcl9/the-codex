@@ -1,0 +1,1 @@
+(1543-1687) De Copérnico a Newton. El momento en que la humanidad cambió cómo conoce el mundo. Sin esto no existe la ciencia moderna, ni los datos, ni nada de lo que estudias.

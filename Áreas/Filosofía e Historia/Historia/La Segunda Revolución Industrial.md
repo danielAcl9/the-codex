@@ -1,0 +1,1 @@
+(1870-1914) Electricidad, acero, petróleo, comunicaciones globales. Es el momento donde el mundo moderno nació. Todo lo que vino después, incluyendo internet y los datos, es consecuencia directa.

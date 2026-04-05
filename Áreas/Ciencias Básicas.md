@@ -1,0 +1,10 @@
+### Física, Química, Matemáticas
+- **Matemáticas y lógica** — No necesariamente cálculo avanzado, pero sí estadística, probabilidad, lógica formal y pensamiento cuantitativo. Es el lenguaje del razonamiento riguroso.
+- Ciencias naturales básicas — Física, biología, química a nivel conceptual. No para ser científico, sino para no ser analfabeta funcional ante el mundo natural.
+---
+- [ ] **==The Brain That Changes Itself — Norman Doidge==**. Neuroplasticidad explicada con casos reales. Conecta directo con los patrones de comportamiento que ya estudias.
+- [ ] **==El Tejido del Cosmos de Brian Greene==**. Cubre espacio, tiempo y la naturaleza de la realidad de forma accesible.
+-----
+- [[Física]]
+- [[Matemáticas]]
+- [[Ingeniería Aeroespacial]]

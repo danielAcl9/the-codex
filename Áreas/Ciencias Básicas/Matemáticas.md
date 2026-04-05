@@ -1,0 +1,5 @@
+### Papers de Matemáticas
+
+1. **Modular elliptic curves and Fermat's Last Theorem**: Un problema tan sencillo que cualquiera puede entenderlo. Pero la prueba es tan profunda que solo unos cuantos en el mundo realmente lo entienden. Resuelto usando estructuras ocultas vinculando áreas completamente diferentes de las matemáticas.
+2. **The Pair Correlation of Zeros of the Zeta Function:** Este paper estudia la estructura detrás de los números primos. Y descubre que su comportamiento refleja las estadísticas de los sistemas cuánticos. Números puros siguiendo las mismas leyes de la física.
+3. **Neural Ordinary Differential Equations:** Muestra como las redes neuronales pueden ser tratadas como sistemas continuos. En vez de capas, evolucionan como ecuaciones diferenciales a través del tiempo. IA Moderna reducida a puro cálculo.

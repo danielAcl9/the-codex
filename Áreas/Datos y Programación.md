@@ -1,0 +1,7 @@
+- [ ] **==Code — Charles Petzold==**. Explica cómo funciona la computación desde cero, desde electricidad hasta software. No es un libro de sintaxis, es de entendimiento profundo. 
+---
+- [[GitHub Setup]]
+- [[Machine Learning]]
+- [[Física cuántica aplicada a finanzas]]
+- [[SQL]]
+- [[Redes Neuronales]]

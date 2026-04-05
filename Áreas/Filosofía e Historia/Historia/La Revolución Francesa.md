@@ -1,0 +1,1 @@
+(1789) No solo política. Redefinió conceptos de libertad, derechos, Estado y poder que siguen gobernando el mundo hoy. Entender por qué pensamos como pensamos en occidente pasa por aquí.

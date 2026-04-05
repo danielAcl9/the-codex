@@ -1,0 +1,8 @@
+- [[Ciencias Básicas]]
+- [[Datos y Programación]]
+- [[Electrónica y Hardware]]
+- [[Entrenamiento y nutrición]]
+- [[Filosofía e Historia]]
+- [[Lenguaje y Comunicación]]
+- [[Negocios y estrategia]]
+- [[Psicología y comportamiento]]

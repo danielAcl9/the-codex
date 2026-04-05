@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "d0409da3412b0e2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1c586b51bd60ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "534d7b349fa396f8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cacbcdf25b4c347",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5f3895a3fce1fe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8b93e43c0035eca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "f9226aca7c555dce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ea0fe3800857e3a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3d52d1312d0aeb67",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c4d7375059d4ad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e09fc903554613",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5e6bcb5f821f0b9f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "457056723a6ef72e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cba907ba9dcd0298",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "534d7b349fa396f8",
+  "lastOpenFiles": [
+    "Recursos/Libros/Hábitos Atómicos.md",
+    "Recursos/Biblioteca.md",
+    "Proyectos/PROYECTOS.md",
+    "Proyectos/Nigthwing Project.md",
+    "Proyectos/Lap Zero Analytics.md",
+    "Proyectos/App de macros.md",
+    "Ideas/IDEAS.md",
+    "Ideas/Bullet Journal.md",
+    "Áreas/Psicología y comportamiento.md",
+    "Áreas/Negocios y estrategia.md",
+    "Áreas/Lenguaje y Comunicación.md",
+    "Áreas/Filosofía e Historia.md",
+    "Áreas/ÁREAS DE APRENDIZAJE.md",
+    "Áreas/Filosofía e Historia/Referentes Históricos de Polímatas.md",
+    "Áreas/Entrenamiento y nutrición.md",
+    "Áreas/Electrónica y Hardware.md",
+    "Áreas/Datos y Programación.md",
+    "Áreas/Datos y Programación/GitHub Setup.md",
+    "Áreas/Ciencias Básicas.md",
+    "Áreas/Ciencias Básicas/Matemáticas.md",
+    "Áreas/Ciencias Básicas/Física.md",
+    "Áreas/Datos y Programación/Física cuántica aplicada a finanzas.md",
+    "Áreas/Datos y Programación/Machine Learning.md",
+    "Áreas/Psicología y Comportamiento/Hot Guy Hobbies.md",
+    "Áreas/Psicología y Comportamiento/(TODO) Unlearn Negative Thoughts & Behaviors Patterns.md",
+    "Áreas/Negocios y Estrategia/Emprendimiento, de plan a éxito.md",
+    "Áreas/Filosofía e Historia/Historia",
+    "Áreas/Filosofía e Historia",
+    "Áreas/Ciencias Básicas",
+    "Recursos/Images/JoinsSQL.png",
+    "Áreas/Negocios y Estrategia",
+    "Pasted image 20260404081252.png",
+    "Áreas/Entrenamiento y Nutrición",
+    "Recursos/Images/AreasOfHobbies.png",
+    "Recursos/Images/ConventionalCommits.png",
+    "Recursos/Images/Key_GitHub.png",
+    "Áreas/Psicología y Comportamiento",
+    "Recursos/Images",
+    "Áreas/Datos y Programación",
+    "Recursos/Libros",
+    "Ideas"
+  ]
+}
