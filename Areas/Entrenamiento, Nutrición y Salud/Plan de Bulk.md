@@ -1,4 +1,4 @@
-[[Entrenamiento y nutrición]]
+[[Entrenamiento, Nutrición y Salud]]
 
 ---
 ## Sobrecarga progresiva

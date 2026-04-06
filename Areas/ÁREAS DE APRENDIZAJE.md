@@ -1,7 +1,7 @@
 - [[Ciencias Básicas]]
 - [[Datos y Programación]]
 - [[Electrónica y Hardware]]
-- [[Entrenamiento y nutrición]]
+- [[Entrenamiento, Nutrición y Salud]]
 - [[Filosofía e Historia]]
 - [[Lenguaje y Comunicación]]
 - [[Negocios y estrategia]]

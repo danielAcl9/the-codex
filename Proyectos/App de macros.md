@@ -23,3 +23,17 @@ Lo importante:
 - MVP primero: agregar alimentos manualmente, ver resumen del día con progreso vs metas 
 - Después del MVP mejoramos
 ---
+### Flujo de la app
+
+```
+Usuario abre la app
+       ↓
+JS lee la fecha de hoy → busca esa clave en localStorage
+       ↓
+Renderiza los alimentos del día + calcula totales
+       ↓
+Usuario llena el formulario y presiona "Agregar"
+       ↓
+JS crea el objeto, lo guarda en localStorage, re-renderiza
+```
+

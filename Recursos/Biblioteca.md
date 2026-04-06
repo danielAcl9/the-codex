@@ -1,4 +1,6 @@
 - [[De la brevedad de la vida]]
 - [[Hábitos Atómicos]]
 - [[Las 48 leyes del Poder]]
+- [[La Guía Definitiva para Reconstruir la Civilización]] -- pendiente de Leer
 - [[No me puedes lastimar]]
+- [[The Courage to be Disliked]] -- pendiente de leer

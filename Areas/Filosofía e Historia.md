@@ -6,3 +6,4 @@ Entender cómo llegamos aquí y por qué pensamos como pensamos. La historia evi
 ---
 - [[Historia]]
 - [[Referentes Históricos de Polímatas]]
+- [[Meister Eckhart - La mirada recíproca]]

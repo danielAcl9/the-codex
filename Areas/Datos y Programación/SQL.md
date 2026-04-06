@@ -343,3 +343,8 @@ Where EmployeeID in (
     From employeedemographics
     Where Age > 30)
 ```
+
+---
+
+---
+![[SQL.jpeg]]![[SQL2.jpeg]]![[SQL3.jpeg]]
