@@ -11,10 +11,14 @@
             "id": "534d7b349fa396f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Recursos/Libros/No me puedes lastimar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "No me puedes lastimar"
             }
           }
         ]

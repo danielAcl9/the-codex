@@ -111,5 +111,28 @@ Tu trabajo consiste en ir más allá de tu punto límite actual. Llega al punto 
 ### Capítulo 8: No se requiere talento
 
 El talento no era necesario para este deporte. Se trataba de corazón y trabajo duro, y ofrecía un reto implacable tras otro, siempre exigiendo más.
+Tendrás que volverte adicto al trabajo duro. Porque la pasión y la obsesión, incluso el talento, sólo son herramientas útiles si tienes la ética del trabajo para respaldarlos. 
+Significa programar tu vida como si estuvieras en una misión de veinticuatro horas, cada día. Sus prioridades son claras, y se mantiene dedicado a sus prioridades. Y no me refiero a las prioridades generales. Cada hora de su semana está dedicada a una tarea concreta y cuando esa hora aparece en tiempo real, se centra al 100 por ciento en esa tarea. Así es como lo hago yo también, porque es la única manera de minimizar las horas desperdiciadas. 
 
-# 190 del ipad
+Sé que tu también tienes objetivos y potencial para mejorar, o no estarías leyendo este libro; y te garantizo que si auditaras tu agenda, encontrarías tiempo para más trabajo y menos tonterías. 
+
+Analiza tu horario, acaba con tus hábitos sin sentido, erradica las tonterías y mira l oque queda. ¿Es una hora al día? ¿Tres? Ahora maximiza esa mierda. Eso significa hacer una lista de tus tareas prioritarias cada hora del día. 
+
+También necesitas backstops en tu agenda diaria. Si una tarea se convierte en tiempo extra, asegúrate de que lo sabes y empieza a hacer la transición a la siguiente tarea prioritaria de inmediato.
+
+Recuerda que también necesitas descansar, así que programa eso también. Escucha a tu cuerpo, tómate esas siestas reparadoras de diez o veinte minutos cuando sea necesario y tómate un día de descanso completo a la semana. Si es un día de descanso, deja que tu mente y tu cuerpo se relajen de verdad. Apaga el teléfono. Mantén tu computadora apagada. Un día de descanso significa que debes estar relajado, pasar tiempo con tus amigos o tu familia, y comer y beber bien, para poder recargarte y volver a trabajar. No es un día para perderse en tecnología o permanecer encorvado en tu escritorio en forma de un maldito signo de interrogación. 
+
+CAOS
+El caos puede y va a descender sin previos aviso, y cuando (no "si") eso sucede, no habrá nada que puedas hacer para detenerlo. Si te lesionas o surgen otras complicaciones que te impiden trabajar en tu pasión principal, vuelve a centrar tu energía en otra cosa. 
+
+Siempre hay que estar preparado para ajustarse, recalibrarse y seguir adelante para ser mejor, de alguna manera. 
+
+#### Reto 8 - Planifica!
+Este será un reto de 3 semanas.
+1. Primera semana: Durante este tiempo sigue tu horario normal, pero toma notas. Se muy detallista y documenta todo con marcas de tiempo. Este será el punto de partida, y encontrarás mucho exceso del cual deshacerte. La mayoría de la gente desperdicia de cuatro a cinco horas en un día determinado, y si puedes aprender a identificarlas y utilizarlas estarás en camino de aumentar tu productividad.
+2. Segunda semana: Construye un horario óptimo. Fija todo en bloques de quince a treinta minutos. Algunas tareas requerirán varios bloques o días enteros. Bien. Cuando trabajhes, hazlo sólo en una cosa a la vez, piensa en la tarea que tienes delante y persíguela sin descanso. Cuando llegue el momento de la siguiente tarea de tu agenda, deja a un lado la primera y enfócate en ella del mismo modo. Asegúrate de que las pauses para comer sean adecuadas, pero no prolongadas, y programa también el ejercicio y el descanso. Pero cuando llegue el momento de descansar, descansa de verdad. No revises el correo electrónico ni te entretengas con tonterías en las redes sociales.
+3. Tercera semana: Tener un horario de trabajo que maximice el esfuerzo, sin sacrificar sueño.
+---
+### Capítulo 9: Inusual entre inusuales
+
+## Página 206 del iPad
