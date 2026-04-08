@@ -134,5 +134,30 @@ Este será un reto de 3 semanas.
 3. Tercera semana: Tener un horario de trabajo que maximice el esfuerzo, sin sacrificar sueño.
 ---
 ### Capítulo 9: Inusual entre inusuales
+- El poder de un entorno competitivo para aumentar el compromiso y los logros de todo un pelotón.
+- ¿Tenía que salir y relacionarme con los chicos después de las horas de trabajo para demostrar mi valor? Eso era mucho pedir para un introvertido como yo. A la mierda con eso. Había llegado a este pelotón por mi intensa dedicación y no iba a aflojar.
+- Yo no quería ni necesitaba un descanso, porque **==los inusuales entre los inusuales no se toman descansos.==**
+- No importa quién seas, la vida te presentará oportunidades similares en las que podrás demostrar que no eres común.
+- Se trata de quererlo como si no hubiera un mañana, porque puede que no lo haya. Se trata de pensar en los demás antes que en uno mismo y de desarrollar un código ético propio que me diferencie de los demás. 
+- La vida es un juego demasiado dinámico, o mejoramos o empeoramos. Sí, tenemos que celebrar nuestras victorias. Hay un poder transformador en la victoria, pero después de la celebración debemos bajar los humos, soñar con nuevos regímenes de entrenamiento, nuevos objetivos y empezar de cero al día siguiente. 
+- ¿Disfrutas de una carrera increíblemente exitosa? Bueno, ahora aprende un nuevo idioma o una habilidad. Obtén un segundo título. Siempre hay que estar dispuesto a aceptar la ignorancia y volver a ser el estúpido de la clase, porque es la única manera de ampliar tu cuerpo de conocimientos y tu cuerpo de trabajo. Es la única manera de ampliar tu mente.
+#### Reto 9 - Siempre tienes que encontrar más. 
+- La grandeza no es algo que si la conoces una vez se queda contigo para siempre. Se evapora como gotas de aceite en una sartén caliente.
+- Si realmente quieres llegar a ser inusual entre los inusuales, requerirá sostener la grandeza durante un largo período de tiempo. Requiere mantenerse en una búsqueda constante y hacer un esfuerzo interminable. 
 
-## Página 206 del iPad
+---
+### Capítulo 10: Los errores te empoderan
+- Los errores son inevitables, pero aprender de ellos llevará a un nivel de entendimiento y poder superiora a nunca jamás.
+- Necesitamos rodearnos de personas que nos digan lo que necesitamos oír, no lo que queremos oír, pero que al mismo tiempo no nos hagan sentir que nos enfrentamos a lo imposible. 
+- No puedes dejar que un simple fracaso te desvíe de tu misión, ni dejar que se te meta tanto en el culo que se apodere de tu cerebro y sabotee tus relaciones con la gente que está cerca de ti.
+- **Mi tarea pasó de tratar de lograr lo imposible a trabajar rumbo a lo inevitable**
+#### Reto 10 - Diario de los fracasos
+- Piensa en tus fracasos más recientes y más desgarradores. 
+- En primer lugar, escribe todas las cosas buenas; todo lo que salió bien, de tus fracasos. Sé detallado y generoso contigo mismo. Habrán pasado muchas cosas buenas. Rara vez todo es malo. A continuación, anota cómo has gestionado tu fracaso. ¿Afectó tu vida y tus relaciones? ¿De qué manera?
+- Y si vuelves a fracasar, que así sea. Acepta el dolor. Repite estos pasos y sigue luchando, de eso se trata.
+---
+### Capítulo 11: Que tal si?
+- Cada vida específica viene con su propia y personalizada porción de dolor. Viene por ti. No puedes detenerlo y lo sabes.
+- No puedes detener de que florezca la crítica en tu cerebro, pero puedes neutralizarla, al igual que todas esas pláticas externas, con preguntarte: ¿Qué tal si?
+- Esta frase es un *"jódete"* exquisito para cualquiera que haya dudado de tu grandeza o haya bloqueado tu camino. Silencia la negatividad. Es un recordatorio de que realmente no sabes de lo que eres capaz hasta que pones todo lo que tienes en la línea. Hace que lo imposible se sienta al menos un poco más posible.
+- Espero que estés dispuesto a hacer el trabajo necesario para echar tus propios límites abajo. 

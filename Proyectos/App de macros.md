@@ -1,6 +1,10 @@
 [[PROYECTOS]]
 
 ---
+### Ideas de mejora
+- [ ] Añadirle cantidad de vasos o termos tomados en el día. 
+
+---
 Construir una web app simple de tracking de macros para uso personal, que pueda usar desde mi celular.
 
 Contexto:
