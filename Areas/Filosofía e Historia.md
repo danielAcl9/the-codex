@@ -5,5 +5,6 @@ Entender cómo llegamos aquí y por qué pensamos como pensamos. La historia evi
 
 ---
 - [[Historia]]
+- [[Historia Bíblica de Daniel]]
 - [[Referentes Históricos de Polímatas]]
 - [[Meister Eckhart - La mirada recíproca]]

@@ -1,8 +1,10 @@
 **Escalada (resolución de problemas físicos)**
 - [ ] Ir al menos 1 vez este mes y probar como me va.
 ---
+- [[Cortisol, qué es y fuera del meme, low vs high cortisol]]
 - [[Nódulos linfáticos superficiales palpables]]
 - [[Plan de Bulk]]
 - [[Rutinas de Entrenamiento]]
 - [[Estudio sobre la Testosterona]]
+- [[Rangos de repeticiones optimos]]
 - [[Referencia de Vitaminas]]

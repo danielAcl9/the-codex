@@ -3,6 +3,7 @@
 ---
 ### Ideas de mejora
 - [ ] Añadirle cantidad de vasos o termos tomados en el día. 
+- [ ] Mejorar las visualizaciones, que sea una barra que se vaya llenando
 
 ---
 Construir una web app simple de tracking de macros para uso personal, que pueda usar desde mi celular.

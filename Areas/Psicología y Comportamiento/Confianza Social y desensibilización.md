@@ -1,0 +1,1 @@
+Escuchar el video de "Talk to every woman as a 400lb whale" y estudiar sobre el tema de perder el miedo a una mujer linda, y quizá completarmelo a mi bajo el punto de que puedo conmujeres que antes consideraba inalcanzables
