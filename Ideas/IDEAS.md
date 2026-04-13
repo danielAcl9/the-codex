@@ -1,4 +1,5 @@
 [[Bullet Journal]]
+[[Conventional Commits para el Codex]]
 
 - [ ] Hacer una certificación de AWS
 	- [ ] AWS Cloud Practitioner
