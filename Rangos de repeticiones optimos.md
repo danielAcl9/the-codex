@@ -11,4 +11,19 @@ No todos los ejercicios responden igual. Los factores clave son:
 - Fatiga sistémica: Ejercicios multiarticulares generan mucha fatiga gloabl, así que conviene no acumular volumen excesivo en ellos. 
 ---
 ### Modificaciones a la rutina
-El esquema más robusto para la mayoría de personas es: Compuestos 
+El esquema más robusto para la mayoría de personas es: 
+- Compuestos grandes (Sentadilla, Peso muerto, press, remo): 3-4 sets, llegar a RIR 1-2 en el último. Los primeros sets a RIR 3-4 sirven como "rampa" y acumulan volumen útil sin destruir.
+- Aislamientos (curl, extensiones, laterales): 2-3 sets, puedo llevar 1-2 de ellos a RIR 0-1 sin tanto problema porque la fatiga sistémica es menor.
+
+- 45° Incline Barbell Bench Press -> Rango de repeticiones subidas de 6-8 a 8-10 
+- Overhead Cable Tricep Extension -> Rango de repeticiones subidas de 8-10 a 10-12
+- Bayesian Cable Curl -> Rango de repeticiones subidas de 8-10 a 10-12
+
+- Seated Leg Curl -> Peso subido de 100lbs a 110lbs
+- Seated Leg Extension -> Peso subido de 100lbs a 110lbs
+- Seated Calf Raise -> Peso subido de 115lbs a 120lbs (hipotético, ver cuanto si le puedo subir)
+
+- Neutral Grip Lat Pulldown -> Peso subido de 45kgs a 47.5kg
+- Chest-supported Machine Row -> Peso subido de 80lbs a 90lbs
+- Cable Bicep Curl -> Peso subido de 15kg a 17.5kg (Si no soy capaz de completar 8 reps, volver al peso anterior.)
+- Cable Reverse Wrist Curl -> Repeticiones subidas de 10 a rango de 12-15
