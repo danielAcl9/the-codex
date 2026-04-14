@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d3479085558c36",
+        "id": "ec87b152da4ac4f1",
         "type": "tabs",
         "children": [
           {
-            "id": "53ab6ef9f2493733",
+            "id": "46ecd7ea36492374",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Entrenamiento, Nutrición y Salud/Rangos de repeticiones optimos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rangos de repeticiones optimos"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -167,14 +163,15 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "53ab6ef9f2493733",
+  "active": "46ecd7ea36492374",
   "lastOpenFiles": [
-    "Ideas/IDEAS.md",
+    "Cardio útil para bulk.md",
+    "Areas/Entrenamiento, Nutrición y Salud.md",
     "Ideas/Conventional Commits para el Codex.md",
     "Areas/Entrenamiento, Nutrición y Salud/Rangos de repeticiones optimos.md",
+    "Ideas/IDEAS.md",
     "Areas/Datos y Programación.md",
     "Areas/Datos y Programación/GitHub Setup.md",
-    "Areas/Entrenamiento, Nutrición y Salud.md",
     "Areas/ÁREAS DE APRENDIZAJE.md",
     "Areas/Filosofía e Historia/Historia/La Segunda Revolución Industrial.md",
     "Recursos/Libros/No me puedes lastimar.md",
@@ -197,7 +194,6 @@
     "Recursos/Biblioteca.md",
     "Areas/Ciencias Básicas/Física.md",
     "Areas/Filosofía e Historia/Meister Eckhart - La mirada recíproca.md",
-    "Areas/Filosofía e Historia/Historia.md",
     "Recursos/Images/NodulosLinfaticos.png",
     "Recursos/Images/CloudwatchAWS.jpeg",
     "Recursos/Images/DataAnalysis.jpeg",

@@ -1,6 +1,7 @@
 **Escalada (resolución de problemas físicos)**
 - [ ] Ir al menos 1 vez este mes y probar como me va.
 ---
+- [[Cardio útil para bulk]]
 - [[Cortisol, qué es y fuera del meme, low vs high cortisol]]
 - [[Nódulos linfáticos superficiales palpables]]
 - [[Plan de Bulk]]
