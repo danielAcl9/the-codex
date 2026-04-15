@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "NASA y Misiones Espaciales"
             }
+          },
+          {
+            "id": "e3046c31e495b75b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Conventional Commits para el Codex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conventional Commits para el Codex"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:Areas  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,9 +182,9 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c6deb10433a832e0",
+  "active": "b8b93e43c0035eca",
   "lastOpenFiles": [
-    "NASA y Misiones Espaciales.md",
+    "Areas/Ciencias Básicas/NASA y Misiones Espaciales.md",
     "Areas/Filosofía e Historia/Historia/La Revolución Francesa.md",
     "Areas/Datos y Programación/Machine Learning.md",
     "Areas/Ciencias Básicas.md",
@@ -183,7 +197,7 @@
     "Areas/Psicología y comportamiento.md",
     "Areas/Psicología y Comportamiento/Hot Guy Hobbies.md",
     "Ideas/Conventional Commits para el Codex.md",
-    "Cardio útil para bulk.md",
+    "Areas/Entrenamiento, Nutrición y Salud/Cardio útil para bulk.md",
     "Areas/Entrenamiento, Nutrición y Salud.md",
     "Areas/Entrenamiento, Nutrición y Salud/Rangos de repeticiones optimos.md",
     "Ideas/IDEAS.md",
