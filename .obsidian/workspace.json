@@ -1,32 +1,20 @@
 {
   "main": {
-    "id": "d0409da3412b0e2d",
+    "id": "783a4bb2621a7f19",
     "type": "split",
     "children": [
       {
-        "id": "602f1c385dfb282d",
+        "id": "4c4623bb0f8ccdc1",
         "type": "tabs",
         "children": [
           {
-            "id": "5d2beb6fe82ddf76",
+            "id": "fe307bbf60074416",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Proyectos/Solarpunk y Futuros Sostenibles.md",
-=======
-                "file": "Proyectos/PROYECTOS.md",
->>>>>>> 8c1cb69645866cd95c29067a223cae07a9729a08
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Solarpunk y Futuros Sostenibles"
-=======
-              "title": "PROYECTOS"
->>>>>>> 8c1cb69645866cd95c29067a223cae07a9729a08
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -35,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6cacbcdf25b4c347",
+    "id": "67f512abe511a79c",
     "type": "split",
     "children": [
       {
-        "id": "e5f3895a3fce1fe2",
+        "id": "4c0bfda0d5daa6e1",
         "type": "tabs",
         "children": [
           {
-            "id": "b8b93e43c0035eca",
+            "id": "767717deb47c1c4f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +44,7 @@
             }
           },
           {
-            "id": "f9226aca7c555dce",
+            "id": "d6d0c117dd04f172",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,31 +61,31 @@
             }
           },
           {
-            "id": "ea0fe3800857e3a9",
+            "id": "9848424070d50644",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 208.5
   },
   "right": {
-    "id": "3d52d1312d0aeb67",
+    "id": "cb866e7103239405",
     "type": "split",
     "children": [
       {
-        "id": "5c4d7375059d4ad3",
+        "id": "8636aca2a8e704ce",
         "type": "tabs",
         "children": [
           {
-            "id": "e6e09fc903554613",
+            "id": "1fb0cb97e83d2c63",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -111,11 +99,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "5e6bcb5f821f0b9f",
+            "id": "8640bd55cd0b03e6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -124,11 +112,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "457056723a6ef72e",
+            "id": "b78d840e49a74820",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,11 +127,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "cba907ba9dcd0298",
+            "id": "e6ebd9cb554f937f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -153,7 +141,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Esquema"
             }
           }
         ]
@@ -175,69 +163,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-<<<<<<< HEAD
-  "active": "c6deb10433a832e0",
+  "active": "fe307bbf60074416",
   "lastOpenFiles": [
-    "Proyectos/PROYECTOS.md",
-    "Areas/Entrenamiento, Nutrición y Salud/Cardio útil para bulk.md",
-=======
-  "active": "5d2beb6fe82ddf76",
-  "lastOpenFiles": [
-    "Areas/Datos y Programación/GitHub Setup.md",
-    "Areas/Datos y Programación/Machine Learning.md",
-    "Areas/Datos y Programación/Física cuántica aplicada a finanzas.md",
-    "Proyectos/PROYECTOS.md",
+    "Recursos/Images/ARIA/ARIA_PROTO1.png",
+    "Recursos/Images/ARIA/ARIA_Mech.png",
+    "Recursos/Images/ARIA",
+    "Proyectos/EDENS ARIA.md",
+    "Recursos/Images/ARIA/ARIA_Wireframe.png",
+    "Pasted image 20260423213621.png",
+    "Proyectos/Proyecto EDEN.md",
+    "Proyectos/Robótica para Solarpunk.md",
     "Proyectos/Solarpunk y Futuros Sostenibles.md",
->>>>>>> 8c1cb69645866cd95c29067a223cae07a9729a08
-    "Ideas/Conventional Commits para el Codex.md",
-    "Areas/Ciencias Básicas/NASA y Misiones Espaciales.md",
-    "Areas/Filosofía e Historia/Historia/La Revolución Francesa.md",
-    "Areas/Ciencias Básicas.md",
-    "Areas/Ciencias Básicas/Matemáticas.md",
-    "Areas/Entrenamiento, Nutrición y Salud/Rutinas de Entrenamiento.md",
-    "Areas/Ciencias Básicas/Vibraciones de baja frecuencia en felinos.md",
-    "Areas/Electrónica y Hardware.md",
-    "Areas/Negocios y Estrategia/Emprendimiento, de plan a éxito.md",
-    "Areas/Entrenamiento, Nutrición y Salud/Nódulos linfáticos superficiales palpables.md",
-    "Areas/Psicología y comportamiento.md",
-    "Areas/Psicología y Comportamiento/Hot Guy Hobbies.md",
-<<<<<<< HEAD
-=======
-    "Areas/Entrenamiento, Nutrición y Salud/Cardio útil para bulk.md",
->>>>>>> 8c1cb69645866cd95c29067a223cae07a9729a08
-    "Areas/Entrenamiento, Nutrición y Salud.md",
-    "Areas/Entrenamiento, Nutrición y Salud/Rangos de repeticiones optimos.md",
-    "Ideas/IDEAS.md",
-    "Areas/Datos y Programación.md",
-    "Areas/ÁREAS DE APRENDIZAJE.md",
-    "Areas/Filosofía e Historia/Historia/La Segunda Revolución Industrial.md",
-    "Recursos/Libros/No me puedes lastimar.md",
-    "Areas/Filosofía e Historia/Historia/La Revolución Científica.md",
-<<<<<<< HEAD
-    "Ideas/Bullet Journal.md",
-    "Proyectos/App de macros.md",
-=======
->>>>>>> 8c1cb69645866cd95c29067a223cae07a9729a08
-    "Sin título.base",
-    "Sin título.canvas",
-    "Sin título 1.base",
-    "Recursos/Images/NodulosLinfaticos.png",
-    "Recursos/Images/CloudwatchAWS.jpeg",
-    "Recursos/Images/DataAnalysis.jpeg",
-    "Recursos/Images/SQL3.jpeg",
-    "Recursos/Images/SQL2.jpeg",
-    "Recursos/Images/SQL.jpeg",
-    "Recursos/Images/BDDGrafos.jpeg",
-    "Recursos/Images/Neo4J.jpeg",
-    "Areas/Filosofía e Historia/Historia",
-    "Areas/Filosofía e Historia",
-    "Areas/Ciencias Básicas",
-    "Recursos/Images/JoinsSQL.png",
-    "Areas/Negocios y Estrategia",
-    "Pasted image 20260404081252.png",
-    "Areas/Entrenamiento, Nutrición y Salud",
-    "Areas/Psicología y Comportamiento",
-    "Recursos/Images",
-    "Areas/Datos y Programación"
+    "Proyectos/PROYECTOS.md"
   ]
 }
