@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "409e1a2f2e5c50f0",
+        "id": "f67b9b56a0996a9d",
         "type": "tabs",
         "children": [
           {
-            "id": "1def5c5aaa947222",
+            "id": "cc2491edca96491f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/EDENS ARIA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EDENS ARIA"
             }
           }
         ]
@@ -166,7 +170,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1def5c5aaa947222",
+  "active": "cc2491edca96491f",
   "lastOpenFiles": [
     "Recursos/RECURSOS.md",
     "Ideas/IDEAS.md",
