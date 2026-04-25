@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c4623bb0f8ccdc1",
+        "id": "409e1a2f2e5c50f0",
         "type": "tabs",
         "children": [
           {
-            "id": "fe307bbf60074416",
+            "id": "1def5c5aaa947222",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ideas/Conventional Commits para el Codex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Conventional Commits para el Codex"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ideas/Conventional Commits para el Codex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Conventional Commits para el Codex"
             }
           },
           {
@@ -136,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Ideas/Conventional Commits para el Codex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Conventional Commits para el Codex"
             }
           }
         ]
@@ -163,15 +166,20 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "fe307bbf60074416",
+  "active": "1def5c5aaa947222",
   "lastOpenFiles": [
+    "Recursos/RECURSOS.md",
+    "Ideas/IDEAS.md",
+    "Ideas/Conventional Commits para el Codex.md",
+    "Ideas/Bullet Journal.md",
+    "Proyectos/EDENS ARIA.md",
+    "Proyectos/Proyecto EDEN.md",
+    "Areas/Datos y Programación/GitHub Setup.md",
     "Recursos/Images/ARIA/ARIA_PROTO1.png",
     "Recursos/Images/ARIA/ARIA_Mech.png",
     "Recursos/Images/ARIA",
-    "Proyectos/EDENS ARIA.md",
     "Recursos/Images/ARIA/ARIA_Wireframe.png",
     "Pasted image 20260423213621.png",
-    "Proyectos/Proyecto EDEN.md",
     "Proyectos/Robótica para Solarpunk.md",
     "Proyectos/Solarpunk y Futuros Sostenibles.md",
     "Proyectos/PROYECTOS.md"

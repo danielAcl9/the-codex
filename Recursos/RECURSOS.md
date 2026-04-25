@@ -3,4 +3,10 @@
 - [[Referencias]]
 ---
 ### Videos pendientes
-- https://www.youtube.com/watch?v=6gjzCrOFETE&t=2s
+- How to Research any topic like a PhD -> https://www.youtube.com/watch?v=6gjzCrOFETE&t=2s
+- AntiDebate: Asesinos en Serie, Física Cuántica e Inteligencia -> https://www.youtube.com/watch?v=X9pDis5IsW8
+- ¿Y si no existe nada? -> https://www.youtube.com/watch?v=SFncpoRmrsY
+- Living with Confidence & Going All In - Matthew McConaughey -> https://www.youtube.com/watch?v=y_woFP79F0Q
+- I Built a 4K Drone That’s Too Small to Make Sense -> https://www.youtube.com/watch?v=piSsKisBaag
+- I Tried 3D Printing as a Beginner: Is it Worth It?! -> https://www.youtube.com/watch?v=B7piY_EyGZI
+- How to Make Anything - Learn to Think Like an Engineer -> https://www.youtube.com/watch?v=IIwTCyu2wS4
