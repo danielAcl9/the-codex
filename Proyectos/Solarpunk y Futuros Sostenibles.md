@@ -94,3 +94,5 @@ Los riesgos identificados en la automatización agrícola incluyen: sesgo algor�
 2. ¿Puede la automatización agrícola ser genuinamente descentralizada, o reproduce los mismos problemas de concentración tecnológica?
 3. ¿Qué distingue un escenario solarpunk de un escenario post-apocalíptico que logró estabilizarse? ¿Es el Solarpunk simplemente el nombre que damos a una recuperación exitosa?
 4. ¿Cuál es el mínimo viable de tecnología para sostener una comunidad resiliente autosuficiente?
+	1. Que cosas se necesitan? Tipo si yo quisiera hacer solo eso, e irme a vivir de eso, podría?
+		1. Estudiar un Photobioreactor, y proyectos similares -> https://www.youtube.com/watch?v=SLckTj_tJg4

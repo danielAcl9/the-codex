@@ -20,12 +20,7 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 - ✅ Porta baterías
 
 ---
-
-**Lo que necesito comprar**
-- [ ] Un cable USB Arduino Uno
-- [ ] ESP8266 NodeMCU — ~15-25K COP — MercadoLibre
-- [ ] Cables Macho - Macho / Hembra - Macho / Hembra Hembra.
-**Otros**
+**Otras cosas para comprar**
 - [ ] Alguna clase de soporte para el sensor. 
 - [ ] Nuevo set de ruedas
 - [ ] Algún tipo de cover hecho en 3d

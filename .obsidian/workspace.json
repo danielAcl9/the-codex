@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/EDENS ARIA.md",
+                "file": "Proyectos/Solarpunk y Futuros Sostenibles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EDENS ARIA"
+              "title": "Solarpunk y Futuros Sostenibles"
             }
           }
         ]
@@ -172,11 +172,11 @@
   },
   "active": "cc2491edca96491f",
   "lastOpenFiles": [
+    "Proyectos/EDENS ARIA.md",
     "Recursos/RECURSOS.md",
     "Ideas/IDEAS.md",
     "Ideas/Conventional Commits para el Codex.md",
     "Ideas/Bullet Journal.md",
-    "Proyectos/EDENS ARIA.md",
     "Proyectos/Proyecto EDEN.md",
     "Areas/Datos y Programación/GitHub Setup.md",
     "Recursos/Images/ARIA/ARIA_PROTO1.png",
