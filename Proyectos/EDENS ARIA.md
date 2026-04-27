@@ -29,8 +29,20 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 
 **Fases de construcción**
 - **Fase 1 — El radar** _(sin WiFi, con USB)_ Montar el HC-SR04 encima del servomotor, hacer que gire de 0 a 180° y leer distancias en cada ángulo. Visualizar el radar en Python en tiempo real.
-	- Tengo como hacer que gire de 0 a 180°? O necesitaré algo más?
-- **Fase 2 — WiFi** _(cuando llegue el ESP8266)_ Reemplazar el cable USB por comunicación inalámbrica. El Arduino envía datos por WiFi al computador.
+	- **ARIA — Sesión Día 1 de Movilidad** _Proyecto: EDEN_
+		- Radar Fase 1 completado y funcionando
+		- Servo + HC-SR04 escaneando 15°-165°
+		- Visualización radar en Python en tiempo real
+		- Chasis ensamblado físicamente
+		- Arduino + Sensor Shield + L298N + porta baterías montados
+		- Conexiones: HC-SR04 a pines 9/10, Servo a pin 6, L298N a pines 2/3/4/7
+- **Fase 2 — WiFi** Reemplazar el cable USB por comunicación inalámbrica. El Arduino envía datos por WiFi al computador.
+	- **Pendientes:**
+		- Cables hembra-hembra más largos
+		- Remontar L298N definitivamente por debajo
+		- Centrar servo correctamente
+		- Conectar motores a OUT1-OUT4
+		- Primera prueba de movimiento
 - **Fase 3 — Movimiento** Integrar los motores. ARIA se mueve y escanea al mismo tiempo. Evita obstáculos basándose en su propio mapa.
 - **Fase 4 — Campo** Prueba en exterior. Terreno irregular, condiciones reales.
 
