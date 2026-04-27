@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/IDEAS.md",
+                "file": "Ideas/Bullet Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDEAS"
+              "title": "Bullet Journal"
             }
           }
         ]
@@ -172,13 +172,13 @@
   },
   "active": "cc2491edca96491f",
   "lastOpenFiles": [
+    "Ideas/Conventional Commits para el Codex.md",
+    "Ideas/IDEAS.md",
+    "Ideas/Bullet Journal.md",
     "Recursos/RECURSOS.md",
     "Areas/Entrenamiento, Nutrición y Salud/Rutinas de Entrenamiento.md",
     "Proyectos/EDENS ARIA.md",
-    "Ideas/IDEAS.md",
-    "Ideas/Conventional Commits para el Codex.md",
     "Proyectos/Solarpunk y Futuros Sostenibles.md",
-    "Ideas/Bullet Journal.md",
     "Proyectos/Proyecto EDEN.md",
     "Areas/Datos y Programación/GitHub Setup.md",
     "Recursos/Images/ARIA/ARIA_PROTO1.png",
