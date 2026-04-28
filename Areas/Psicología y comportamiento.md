@@ -11,3 +11,4 @@ Cómo se comportan los sistemas humanos, tanto individuales como colectivos.
 - [[Confianza Social y desensibilización]]
 - [[Hot Guy Hobbies]]
 - [[(TODO) Unlearn Negative Thoughts & Behaviors Patterns]]
+- [[Manejar Múltiples Intereses]]
