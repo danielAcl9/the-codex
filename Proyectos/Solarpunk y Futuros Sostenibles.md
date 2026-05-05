@@ -96,3 +96,31 @@ Los riesgos identificados en la automatización agrícola incluyen: sesgo algor�
 4. ¿Cuál es el mínimo viable de tecnología para sostener una comunidad resiliente autosuficiente?
 	1. Que cosas se necesitan? Tipo si yo quisiera hacer solo eso, e irme a vivir de eso, podría?
 		1. Estudiar un Photobioreactor, y proyectos similares -> https://www.youtube.com/watch?v=SLckTj_tJg4
+
+
+**Pendientes del documento:**
+
+_Investigación necesaria:_
+
+- Calcular kWh diarios para 150 personas
+- Requerimiento calórico mínimo por persona y qué cultivos lo cubren
+- Casos de estudio: profundizar en Gaviotas Colombia especialmente
+- AWES (turbinas de altura) — buscar papers citables
+- Sistemas de purificación de agua fabricables localmente
+
+_Escritura pendiente:_
+
+- Desarrollar capítulo 2 completo
+- Desarrollar capítulos 3, 4, 5, 6 con los datos de investigación
+- Capítulo 7 — integrar mención de EDEN
+- Capítulo 8 — casos de estudio reales con fuentes
+- Capítulo 9 — framework final para comunidad de 150 personas
+- Capítulo 10 — conclusiones
+- Abstract — se escribe último
+
+_Fuentes por confirmar:_
+
+- Kimmerer — capítulos seleccionados
+- Hopkins — Transition Towns data
+- Gaviotas Colombia — buscar documentación primaria
+- FarmBot, Precious Plastic, RepRap — documentación técnica oficial
