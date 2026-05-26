@@ -2,12 +2,14 @@
 _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 
 ---
-**Qué es?** Robot de percepción espacial. Escanea el entorno en 180° con sensor ultrasónico montado en servomotor y envía el mapa en tiempo real al computador vía WiFi.
+**Qué es?** ARIA es un rover autónomo de patrullaje continuo. Mapea el terreno agrícola, detecta cambios y obstáculos en tiempo real, y transmite inteligencia espacial al ecosistema EDEN para que los demás robots puedan actuar.
 
 ---
 ### Cosas a pensar
 - [ ] Como será el diseño final?
 	- Se me ocurre tipo tanqueta cortica, sin cara ni pantallas, solo el servo y el reconocimiento.
+	- [ ] Empezar a hacer la v1, como lo hago, Blender? CAD?
+- [ ] Como hacer para pasar de alimentación por baterías a alguna clase de batería con panel solar. (Siguiendo esto, como sé que tanto necesita?)
 ---
 
 **Lo que ya tengo**
