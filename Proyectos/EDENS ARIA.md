@@ -10,6 +10,7 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 	- Se me ocurre tipo tanqueta cortica, sin cara ni pantallas, solo el servo y el reconocimiento.
 	- [ ] Empezar a hacer la v1, como lo hago, Blender? CAD?
 - [ ] Como hacer para pasar de alimentación por baterías a alguna clase de batería con panel solar. (Siguiendo esto, como sé que tanto necesita?)
+	- [ ] 5Vdc 60 miliamperios (18K en mercadolibre)
 ---
 
 **Lo que ya tengo**
