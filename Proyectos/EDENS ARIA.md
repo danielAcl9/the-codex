@@ -32,16 +32,20 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 		- Chasis ensamblado físicamente
 		- Arduino + Sensor Shield + L298N + porta baterías montados
 		- Conexiones: HC-SR04 a pines 9/10, Servo a pin 6, L298N a pines 2/3/4/7
-- **Fase 2 — WiFi** Reemplazar el cable USB por comunicación inalámbrica. El Arduino envía datos por WiFi al computador.
-	- **Pendientes:**
-		- Cables hembra-hembra más largos
-		- Remontar L298N definitivamente por debajo
-		- Centrar servo correctamente
-		- Conectar motores a OUT1-OUT4
-		- Primera prueba de movimiento
-- **Fase 3 — Movimiento** Integrar los motores. ARIA se mueve y escanea al mismo tiempo. Evita obstáculos basándose en su propio mapa.
-- **Fase 4 — Campo** Prueba en exterior. Terreno irregular, condiciones reales.
-
+- **Fase 2 — Conexión básica**
+	1. Soldar motores
+	2. Conectar motores al L298N
+	3. Conectar GND por switch y batería
+	4. Primera prueba de movimiento
+	5. Reemplazar USB por WiFi
+- **Fase 3 — Movimiento inteligente**
+	1. Diseño nuevo base chasis en Onshape
+	2. Conseguir cables hembra-hembra largos
+	3. Integrar motores + radar simultáneamente
+	4. Evitación de obstáculos basada en mapa
+- **Fase 4 — Campo**
+	1. Diseñar chasis completo
+	2. Prueba en terreno irregular
 ---
 
 **Stack**
