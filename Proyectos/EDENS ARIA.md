@@ -5,34 +5,27 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 **Qué es?** ARIA es un rover autónomo de patrullaje continuo. Mapea el terreno agrícola, detecta cambios y obstáculos en tiempo real, y transmite inteligencia espacial al ecosistema EDEN para que los demás robots puedan actuar.
 
 ---
-### Cosas a pensar
-- [ ] Como será el diseño final?
-	- Se me ocurre tipo tanqueta cortica, sin cara ni pantallas, solo el servo y el reconocimiento.
-	- [ ] Empezar a hacer la v1, como lo hago, Blender? CAD?
-- [ ] Como hacer para pasar de alimentación por baterías a alguna clase de batería con panel solar. (Siguiendo esto, como sé que tanto necesita?)
-	- [ ] Toca tener varias cosas, reguladores, baterías de litio y un panel lo suficientemetne grande para cargar todo.
----
-
-**Lo que ya tengo**
-- ✅ Arduino UNO
-- ✅ Chasis con 2 ruedas y motores DC
-- ✅ Driver de motores L298N
-- ✅ Sensor ultrasónico HC-SR04
-- ✅ Servomotor
-- ✅ Sensor Shield v5.0
-- ✅ Porta baterías
+### Tareas
+**Mañana (Con cautín)**
+- [ ] Buscar cautín con mamá
+- [ ] Soldar cables de motores
+- [ ] Conectar motores a terminales del L298N
+- [ ] Conseguir cable pelado para GND del switch al L298N
+- [ ] Conectar batería
+**Mañana sin cautín**
+- [ ] Instalar Onshape
+- [ ] Diseñar soporte del servomotor en CAD
+- [ ] Antes de diseñar: decidir si el servo necesita girar o puede quedarse fijo
 
 ---
-**Otras cosas para comprar**
-- [ ] Alguna clase de soporte para el sensor. 
-- [ ] Nuevo set de ruedas
-- [ ] Algún tipo de cover hecho en 3d
-
+**Pendiente / A pensar**
+- [ ] Diseño final del chasis — dirección: tanqueta compacta, sin pantallas, solo servo y sensores
+- [ ] Migración a energía solar: regulador de carga, batería de litio, panel solar. Pendiente calcular consumo real del sistema para dimensionar todo.
 ---
 
 **Fases de construcción**
 - **Fase 1 — El radar** _(sin WiFi, con USB)_ Montar el HC-SR04 encima del servomotor, hacer que gire de 0 a 180° y leer distancias en cada ángulo. Visualizar el radar en Python en tiempo real.
-	- **ARIA — Sesión Día 1 de Movilidad** _Proyecto: EDEN_
+	- **ARIA — Trabajo realizado
 		- Radar Fase 1 completado y funcionando
 		- Servo + HC-SR04 escaneando 15°-165°
 		- Visualización radar en Python en tiempo real
