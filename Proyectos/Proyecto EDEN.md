@@ -18,13 +18,7 @@ Diseñar y construir una suite de robots autónomos para una microsociedad Solar
 - Rol en EDEN: Sistema de percepción base para robótica de campo
 [[EDENS ARIA]]]
 
-**EDENS CERES** _(6-12 meses)_ _Pórtico CNC agrícola_
-- Hardware: Raspberry Pi, Arduino, motores NEMA, panel solar
-- Función: Siembra, riego y deshierbe autónomo
-- Referencia: farmbot.io — open-source, consultado por NASA
-- Rol en EDEN: Producción de alimento autónoma y sostenible
-
-**EDENS ATHENA** _(Futuro)_ _Patrullaje y análisis de suelo_
+**EDENS ATHENA** _(Siguiente)_ _Patrullaje y análisis de suelo_
 - Hardware: ROS, RTK-GPS, cámara RGB+IR, chasis CNC
 - Función: Monitoreo de campo, análisis de suelo, deshierbe mecánico
 - Referencia: Twisted Fields
@@ -35,6 +29,11 @@ Diseñar y construir una suite de robots autónomos para una microsociedad Solar
 - Función: Sigue al operario, carga herramientas, transporta cosecha
 - Rol en EDEN: Extensión física del operario humano
 
+**EDENS CERES** _(Futuro Lejano)_ _Pórtico CNC agrícola_
+- Hardware: Raspberry Pi, Arduino, motores NEMA, panel solar
+- Función: Siembra, riego y deshierbe autónomo
+- Referencia: farmbot.io — open-source, consultado por NASA
+- Rol en EDEN: Producción de alimento autónoma y sostenible
 ---
 
 **Próximos pasos**

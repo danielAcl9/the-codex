@@ -66,4 +66,24 @@ The ARIA Radar Robot is an autonomous agricultural robotics platform featuring a
 | Electrical | 8     | $54.50 |
 | Mechanical | 7     | $24.66 |
 | Total      | 15    | $79.16 |
-![[ARIA_Wireframe.png]]![[ARIA_Mech.png]]
+![[ARIA_Wireframe.png]]![[ARIA_Mech.png]]**Mañana — ARIA + Video**
+
+**1. Review de ARIA — 30 min**
+
+- Estado actual del hardware: qué está conectado y qué no
+- Qué funciona: radar Fase 1 ✅
+- Qué falta: movimiento autónomo
+- Función de ARIA en el ecosistema EDEN documentada
+
+**2. Lista de materiales — 15 min**
+
+- Verificar si hay cable de cobre en casa para soldar
+- Anotar todo lo que falta para Fase 2
+- Lista lista para comprar el miércoles
+
+**3. Video de introducción de ARIA — 1 hora**
+
+- Mostrar el robot en su estado actual
+- Explicar su rol dentro del ecosistema EDEN
+- Guión base: "This is where I start"
+- Grabar en inglés, sin edición elaborada
