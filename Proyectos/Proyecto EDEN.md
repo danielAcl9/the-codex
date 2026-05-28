@@ -31,7 +31,7 @@ Diseñar y construir una suite de robots autónomos para una microsociedad Solar
 
 **EDENS CERES** _(Futuro Lejano)_ _Pórtico CNC agrícola_
 - Hardware: Raspberry Pi, Arduino, motores NEMA, panel solar
-- Función: Siembra, riego y deshierbe autónomo
+- Función: Siembra, riego y deshierbe autónomo (un brazo con 6 noveles de libertad, o cuantas)
 - Referencia: farmbot.io — open-source, consultado por NASA
 - Rol en EDEN: Producción de alimento autónoma y sostenible
 ---
