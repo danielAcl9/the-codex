@@ -6,13 +6,9 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 
 ---
 ### Tareas
-**Mañana (Con cautín)**
-- [ ] Buscar cautín con mamá
-- [ ] Soldar cables de motores
-- [ ] Conectar motores a terminales del L298N
-- [ ] Conseguir cable pelado para GND del switch al L298N
-- [ ] Conectar batería
-**Mañana sin cautín**
+**Mañana**
+- [ ] Hacer pruebas con las nuevas baterías. 
+- [ ] Hacer plan de acción si no sirven.
 - [ ] Instalar Onshape
 - [ ] Diseñar soporte del servomotor en CAD
 - [ ] Antes de diseñar: decidir si el servo necesita girar o puede quedarse fijo
