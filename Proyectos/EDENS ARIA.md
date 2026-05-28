@@ -15,7 +15,10 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 
 ---
 **Pendiente / A pensar**
-- [ ] Diseño final del chasis — dirección: tanqueta compacta, sin pantallas, solo servo y sensores
+- [ ] Diseño final del chasis — dirección: tanqueta compacta, sin pantallas, solo servo y sensores.
+- [ ] Debe tener espacio para todos
+- [ ] Entender si el sensor quedará por fuera como una lupa o por dentro.
+	- [ ] Si es por dentro, como girará?
 - [ ] Migración a energía solar: regulador de carga, batería de litio, panel solar. Pendiente calcular consumo real del sistema para dimensionar todo.
 ---
 
@@ -29,14 +32,17 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 		- Arduino + Sensor Shield + L298N + porta baterías montados
 		- Conexiones: HC-SR04 a pines 9/10, Servo a pin 6, L298N a pines 2/3/4/7
 - **Fase 2 — Conexión básica**
-	1. Soldar motores
-	2. Conectar motores al L298N
-	3. Conectar GND por switch y batería
-	4. Primera prueba de movimiento
-	5. Reemplazar USB por WiFi
+	- Soldar motores
+	- Conectar motores al L298N
+	- Conectar GND por switch y batería
+	- Pendientes:
+		1. Primera prueba de movimiento
+		2. Reemplazar USB por WiFi
 - **Fase 3 — Movimiento inteligente**
 	1. Diseño nuevo base chasis en Onshape
+		1. Considerando posibles 4 ruedas
 	2. Conseguir cables hembra-hembra largos
+		1. Implementar 4 ruedas en vez de 2
 	3. Integrar motores + radar simultáneamente
 	4. Evitación de obstáculos basada en mapa
 - **Fase 4 — Campo**
