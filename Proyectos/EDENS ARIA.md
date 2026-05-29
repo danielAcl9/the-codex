@@ -6,13 +6,9 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 
 ---
 ### Tareas
-**Mañana**
-- [ ] Hacer pruebas con las nuevas baterías. 
-- [ ] Hacer plan de acción si no sirven.
-- [ ] Instalar Onshape
+**Tareas inmediatas**
+- [ ] Diagnóstico de motores con multímetro (en la U)
 - [ ] Diseñar soporte del servomotor en CAD
-- [ ] Antes de diseñar: decidir si el servo necesita girar o puede quedarse fijo
-
 ---
 **Pendiente / A pensar**
 - [ ] Diseño final del chasis — dirección: tanqueta compacta, sin pantallas, solo servo y sensores.
@@ -20,6 +16,10 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 - [ ] Entender si el sensor quedará por fuera como una lupa o por dentro.
 	- [ ] Si es por dentro, como girará?
 - [ ] Migración a energía solar: regulador de carga, batería de litio, panel solar. Pendiente calcular consumo real del sistema para dimensionar todo.
+- [ ] Instalar Onshape si al final de los 30 días de Fusion no me quedo convencido.
+
+---
+### Decisiones de diseño
 ---
 
 **Fases de construcción**
