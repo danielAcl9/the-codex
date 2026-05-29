@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Pendiente",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "cc2491edca96491f",
+  "active": "d6d0c117dd04f172",
   "lastOpenFiles": [
     "Ideas/Conventional Commits para el Codex.md",
     "Proyectos/EDENS ARIA.md",

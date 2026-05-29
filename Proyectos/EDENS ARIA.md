@@ -9,17 +9,36 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 **Tareas inmediatas**
 - [ ] Diagnóstico de motores con multímetro (en la U)
 - [ ] Diseñar soporte del servomotor en CAD
+- [ ] Primer modelo estructural del chasis en Fusion
 ---
 **Pendiente / A pensar**
-- [ ] Diseño final del chasis — dirección: tanqueta compacta, sin pantallas, solo servo y sensores.
-- [ ] Debe tener espacio para todos
-- [ ] Entender si el sensor quedará por fuera como una lupa o por dentro.
-	- [ ] Si es por dentro, como girará?
+- [ ] Diseño final del chasis — dirección: tanqueta compacta, estilo solarpunk, amigable, curioso, redondo.
+- [ ] Debe tener espacio definido para
+	- [ ] Arduino+Shield, L298N, portabaterías, servo+HC-SR04, switch accesible desde el exterior, paso de cables de motores.
+- [ ] Sensor: ¿por fuera como torreta expuesta o empotrado con visera? Si es empotrado, cómo gira sin obstáculos
+- [ ] Migración de energía: Paso intermedio: Batería litio 18650 x2.
 - [ ] Migración a energía solar: regulador de carga, batería de litio, panel solar. Pendiente calcular consumo real del sistema para dimensionar todo.
-- [ ] Instalar Onshape si al final de los 30 días de Fusion no me quedo convencido.
+- [ ] Instalar OnShape si Fusion no convence al acabar los 30 días de prueba premium
 
 ---
 ### Decisiones de diseño
+**ParaV1**
+- Rueda loca al frente, motores atrás
+- Sensor a 8-10cm del suelo para línea de visión correcta
+- Barrido semicircular 180° — no fijo al frente
+- Chasis en dos niveles si es necesario
+- Baterías 18650 x2 en serie = 7.4V
+- Switch empotrado en lateral accesible
+**Para V2**
+- Baúl trasero con apertura para acceso al Arduino
+- Estética Solarpunk — formas orgánicas, redondeadas, amigables
+**Llantas y movimiento**
+- ARIA V2 → Rocker-Bogie 6 ruedas
+- ARIA V3 → orugas
+##### Pendiente hardware
+
+- Conseguir pilas AA alcalinas nuevas para prueba inmediata
+- Planear compra baterías 18650 x2 + porta baterías en serie + cargador
 ---
 
 **Fases de construcción**
