@@ -6,17 +6,7 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 
 ---
 ### Tareas
-**Tareas inmediatas**
-- [ ] Diagnóstico de motores con multímetro (en la U)
-- [ ] Diseñar soporte del servomotor en CAD
-- [ ] Primer modelo estructural del chasis en Fusion
-**Tareas adicionales** - Electrónica básica
-- [ ] Ver video corto sobre **serie vs paralelo** en baterías — aplicado a Arduino
-- [ ] Aprender a usar el **multímetro** — medir voltaje, continuidad y corriente
-- [ ] Entender **voltaje vs corriente** — diferencia práctica para no repetir el error de hoy
-	- [ ] Toda esta información debería quedar acá mismo en [[Ciencias Básicas]]
-- [ ] Leer datasheet básico del **L298N** — voltaje de entrada, corriente máxima, pines
-- [ ] Practicar mediciones reales con el multímetro nuevo antes de conectar cualquier cosa nueva
+
 
 **Recurso recomendado:** YouTube — GreatScott! o Andreas Spiess para electrónica práctica orientada a proyectos reales.
 ---
