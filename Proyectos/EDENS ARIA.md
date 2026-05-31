@@ -88,3 +88,70 @@ ARIA mapea autónomamente una habitación completa sin intervención humana.
 **Stack**
 - Arduino C++ para el hardware
 - Python + matplotlib para la visualización
+---
+# Ideas para el documento
+Título ajustado: _"ARIA: Design and Implementation of an Autonomous Reconnaissance Rover for Agricultural Environment Mapping"_
+
+1. **Abstract** _(escribir al final)_
+2. **Introduction**
+	- Problema: agricultura necesita automatización accesible, los robots deben apoyar, no reemplazar a nuestros granjeros. 
+	- Solución propuesta: rover autónomo de reconocimiento para mapeo de entornos agrícolas
+	- Contribución: ARIA como prueba de concepto
+	- Mención breve de ecosistema mayor (EDEN) sin desarrollar
+	- Estructura del documento
+3. **Related Work**
+	- FarmBot — pórtico CNC agrícola open source, consultado por NASA
+	- Twisted Fields — robótica agrícola de campo
+	- Roomba / algoritmos de cobertura — Boustrophedon
+	- Rovers NASA — Curiosity como referencia de Rocker-Bogie
+	- Sistemas de mapeo con HC-SR04 en robótica educativa vs aplicada
+4. **System Architecture** - arquitectura de ARIA en general, no solo V1. La visión de cómo todo se conecta como sistema.
+	- Visión general de ARIA — qué es, qué hace
+	- Diagrama de bloques del sistema
+		![[Pasted image 20260531172729.png]]
+	- Decisiones de diseño y justificación de cada componente
+		- Por qué elegiste esta arquitectura. Ejemplos:
+			- Por qué Arduino y no Raspberry Pi
+			- Por qué HC-SR04 y no LiDAR
+			- Por qué L298N y no otro driver
+		- Stack tecnológico: Arduino / C++ / Python + matplotlib
+5. **Hardware Design** - qué hace cada componente en el contexto de ARIA y por qué lo usaste. Luego el diagrama de circuito lo complementa visualmente. Para cada componente: Qué es, qué hace en ARIA, por qué este y no otro. Es selección y justificación de hardware, no diseño desde cero.
+	- Arduino UNO — hub de control
+	- HC-SR04 + servo SG90 — sistema de radar
+	- L298N — driver de motores
+	- Motores TT — locomoción
+	- Baterías 18650 x2 — sistema de potencia
+	- ESP32 — comunicación WiFi
+	- Diagrama de circuito (Fritzing)
+	- **V1: hardware actual con justificación**
+	- **V2: hardware propuesto con justificación del upgrade**
+6. **Software Design**
+	- Diagrama de flujo general
+	- Módulo de radar — barrido 180°, calibración centro en 64°
+	- Módulo de movimiento — control PWM, compensación de deriva
+	- Módulo de evasión de obstáculos — lógica de decisión
+	- Algoritmo Boustrophedon — cobertura de área predefinida
+	- Visualización en Python + matplotlib
+	- Comunicación serial
+7. **Implementation**
+	- Dos fases reales:
+		- V1: prototipo inicial, pruebas en interior
+		- V2: Rocker-Bogie, encoders, panel solar, campo real
+8. **Results and Discussion**
+	- Resultado Fase 1: radar funcional con visualización en tiempo real
+	- Resultado Fase 2: movimiento autónomo sin USB con 18650
+	- Resultado Fase 3: evasión de obstáculos funcionando
+	- Resultado Fase 4: cobertura Boustrophedon en área predefinida
+	- Limitaciones: odometría por tiempo sin encoders, deriva acumulada
+	- Discusión: qué funcionó, qué se cambiaría
+		- **Resultados de ambas versiones**
+9. **Conclusions **
+	- ARIA como sistema validado, mención de EDEN como siguiente paso
+	- Limitaciones documentadas y actuales.
+	- Visión del ecosistema EDEN — ARIA como pilar de percepción
+10. **References**
+	- FarmBot documentation
+	- HC-SR04 datasheet
+	- L298N datasheet
+	- Literatura de algoritmos Boustrophedon
+	- Papers de robótica agrícola relevantes
