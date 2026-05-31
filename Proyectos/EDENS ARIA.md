@@ -123,6 +123,17 @@ Título ajustado: _"ARIA: Design and Implementation of an Autonomous Reconnaissa
 	- Baterías 18650 x2 — sistema de potencia
 	- ESP32 — comunicación WiFi
 	- Diagrama de circuito (Fritzing)
+		- **Diagrama V1** — "Estado inicial del prototipo"
+			- Arduino UNO
+			- HC-SR04 pines 9/10, Servo pin 6
+			- L298N con pines 2/3/4/7
+			- Baterías 18650
+		- **Diagrama V2** — "Implementación final"
+			- Arduino UNO directo sin Shield
+			- HC-SR04, Servo, L298N con pines actuales
+			- Baterías 18650 x2
+			- ESP32
+			- Hardware adicional de V2 cuando esté definido
 	- **V1: hardware actual con justificación**
 	- **V2: hardware propuesto con justificación del upgrade**
 6. **Software Design**
