@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conven",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,9 +187,9 @@
   "active": "012c4ce2110ac0ba",
   "lastOpenFiles": [
     "Proyectos/EDENS ARIA.md",
+    "Proyectos/EDENS ARIA V2.md",
     "Ideas/Conventional Commits para el Codex.md",
     "Areas/Datos y Programación/GitHub Setup.md",
-    "Proyectos/EDENS ARIA V2.md",
     "Proyectos/Proyecto EDEN.md",
     "Pasted image 20260531172729.png",
     "Recursos/Images/ARIA/ARIA_Mech.png",

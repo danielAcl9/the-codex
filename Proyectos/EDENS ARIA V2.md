@@ -37,3 +37,30 @@
 - Transmisión de datos WiFi al ecosistema EDEN via Raspberry Pi 4
 - Stack: ROS / Python / C++ / Arduino
 ---
+## Lista de compras ARIA V2
+
+**Cerebro:**
+- Raspberry Pi 4 (2GB) → ~350.000 COP
+
+**Motores y drivers:**
+- 4 motores TT adicionales → ~40.000 COP
+- 2 encoders ópticos IR (ruedas intermedias) → ~16.000 COP
+- 3x TB6612FNG → ~42.000 COP
+
+**Sensores:**
+- 3x VL53L0X → ~45.000 COP
+- IMU MPU6050 → ~8.000 COP
+
+**Energía:**
+- Panel solar 6V 500mA+ → ~35.000 COP
+- Módulo de carga solar → ~20.000 COP
+- MicroSD 32GB clase 10 → ~30.000 COP
+
+**Diseño y estructura:**
+- Impresión 3D chasis Rocker-Bogie → ~120.000 COP
+- Pantalla OLED pequeña → ~15.000 COP
+
+**Miscelánea:**
+- Cables, tornillos, standoffs → ~25.000 COP
+
+**Total estimado: ~746.000 COP**

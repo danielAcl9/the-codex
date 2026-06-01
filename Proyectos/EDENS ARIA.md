@@ -51,12 +51,9 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 - **Fase 3 — Movimiento inteligente** 🟡 En progreso
 	- Conexiones limpias sin Shield ✅
 	- Evasión de obstáculos autónoma ✅
-	- Integrar ESP32 WiFi con 18650
 	- Algoritmo Boustrophedon con área predefinida
-	- Radar + movimiento integrados con barrido al detenerse
 	- Mapeo 2D en tiempo real con visualización Python
 - **Fase 4 — Documentación y cierre V1**
-	- Pruebas documentadas en entorno controlado
 	- Diagrama de circuito en Fritzing
 	- GitHub con README en inglés
 	- Video final V1 funcionando
@@ -67,7 +64,6 @@ _Proyecto: EDEN — Nivel 1_ _Estado: En construcción_
 
 - Movimiento autónomo con evasión de obstáculos
 - Mapeo 2D en tiempo real con visualización
-- Transmisión WiFi de datos
 ### Criterio de graduación a V2
 
 ARIA mapea autónomamente una habitación completa sin intervención humana.
@@ -78,11 +74,13 @@ ARIA mapea autónomamente una habitación completa sin intervención humana.
 
 **Entorno:** terreno irregular, exterior, campo agrícola **Objetivo:** sistema de percepción real para ecosistema EDEN
 
-- Rocker-Bogie 6 ruedas
-- Panel solar integrado
-- Mapeo 2D de campo agrícola
-- Patrullaje autónomo de área definida
-- Transmisión WiFi al ecosistema
+- Rocker-Bogie 6 ruedas con suspensión pasiva. 
+- Sistema híbrido de energía — panel solar + 18650
+- Mapeo 3D con altimetría — fusión de encoders + IMU
+- Patrullaje autónomo con algoritmo Boustrophedon
+- Evasión de obstáculos con array 3x VL53L0X
+- Transmisión WiFi al ecosistema EDEN via Raspberry Pi 4
+- Estética Solarpunk con personalidad visual
 ---
 
 **Stack**
