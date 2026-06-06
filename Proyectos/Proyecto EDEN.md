@@ -16,8 +16,8 @@ Diseñar y construir una suite de robots autónomos para una microsociedad Solar
 - Stack: Arduino / C++ / Python + matplotlib
 - Aprendizaje: Servos, comunicación serial, WiFi, visualización
 - Rol en EDEN: Sistema de percepción base para robótica de campo
-[[EDENS ARIA]]]
-
+[[EDENS ARIA]]] 
+[[EDENS ARIA]]
 
 **EDENS CERES** _(4 a 6 meses)_ Pórtico CNC agrícola
 
