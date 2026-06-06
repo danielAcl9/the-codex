@@ -5,9 +5,10 @@
 
 - Necesario para: tener base documentable antes de empezar V2
 - Tareas:
-    - [ ] Boustrophedon con área predefinida funcionando
-    - [ ] Mapeo 2D con visualización Python corriendo
-    - [ ] Entregable: ARIA patrulla autónomamente una habitación
+    - [x] Boustrophedon con área predefinida funcionando
+    - [x] Mapeo 2D con visualización Python corriendo
+	    - [x] Antes de: Cambiar el cable y arreglar por qué no lo reconoce. 
+    - [x] Entregable: ARIA patrulla autónomamente una habitación
 
 ---
 
@@ -27,7 +28,7 @@
 
 - Necesario para: validar que toda la electrónica funciona antes de imprimir nada físico
 - Tareas:
-    - [ ] Instalar Ubuntu + ROS en Raspberry Pi 4
+    - [ ] Instalar Ubuntu + ROS en Raspberry Pi 4 (Se instala en el RPi, no en mi computador)
     - [ ] Comunicación RPi ↔ Arduino funcionando
     - [ ] Comprar: 4 motores TT + 3x TB6612FNG + encoders IR
     - [ ] Primer nodo ROS controlando los 6 motores sobre mesa
@@ -55,6 +56,8 @@
     - [ ] Diseño modular — nivel inferior, superior, sistema snap fit
     - [ ] Enviar a imprimir
     - [ ] Paper: Software Design
+    - [ ] Diseñar PBC Personalizada en KiCad
+    - [ ] Enviara fabricar (ver si consigo una fábrica local, si no, JLCPCB)
 
 ---
 
