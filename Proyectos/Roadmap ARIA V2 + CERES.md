@@ -19,10 +19,9 @@
 - Necesario para: saber exactamente qué comprar, cómo se conecta todo, definir modularidad antes de gastar un peso
 - Tareas:
     - [x] Diagrama de bloques del sistema V2 completo
-    - [ ] Esquema de conexiones RPi ↔ Arduino ↔ motores ↔ sensores
     - [ ] Definir arquitectura modular — qué es intercambiable entre versiones
     - [x] Comprar: Raspberry Pi 4 + MicroSD
-    - [ ] Documentación V1: Fritzing + GitHub + README + video V1
+    - [ ] Documentación V1: GitHub + README + video V1
     - [ ] A Beginner's Guide to Autonomous Robots — 1 hora, gratis, perfecto para arrancar -> https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-35+V1
 
 ---
@@ -62,6 +61,7 @@
     - [ ] Diseño modular — nivel inferior, superior, sistema snap fit
     - [ ] Enviar a imprimir
     - [ ] Paper: Software Design
+    - [ ] Esquema de conexiones RPi ↔ Arduino ↔ motores ↔ sensores
     - [ ] Diseñar PBC Personalizada en KiCad
     - [ ] Enviara fabricar (ver si consigo una fábrica local, si no, JLCPCB)
     - [ ] **Developing Robots with SIL in Isaac Sim** — 2 horas, gratis-> https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-sim/latest/developing-robots-with-sil-in-isaac-sim/index.html
