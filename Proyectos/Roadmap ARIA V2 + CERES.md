@@ -18,11 +18,12 @@
 
 - Necesario para: saber exactamente qué comprar, cómo se conecta todo, definir modularidad antes de gastar un peso
 - Tareas:
-    - [ ] Diagrama de bloques del sistema V2 completo
+    - [x] Diagrama de bloques del sistema V2 completo
     - [ ] Esquema de conexiones RPi ↔ Arduino ↔ motores ↔ sensores
     - [ ] Definir arquitectura modular — qué es intercambiable entre versiones
-    - [ ] Comprar: Raspberry Pi 4 + MicroSD
+    - [x] Comprar: Raspberry Pi 4 + MicroSD
     - [ ] Documentación V1: Fritzing + GitHub + README + video V1
+    - [ ] A Beginner's Guide to Autonomous Robots — 1 hora, gratis, perfecto para arrancar -> https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-35+V1
 
 ---
 
@@ -35,6 +36,8 @@
     - [ ] Comprar: 4 motores TT + 3x TB6612FNG + encoders IR
     - [ ] Primer nodo ROS controlando los 6 motores sobre mesa
     - [ ] Paper: Introduction + Related Work
+    - [ ] **Modern Robotics:** Empezar el curso en paralelo, 1 capítulo por semana con lectura de fondo. https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx
+    - [ ] Getting Started: Simulating Your First Robot in Isaac Sim — 1.5 horas, gratis -> https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-sim/latest/building-your-first-robot-in-isaac-sim/index.html
 
 ---
 
@@ -47,6 +50,7 @@
     - [ ] MPU6050 publicando inclinación en ROS
     - [ ] Evasión de obstáculos básica con array ToF sobre mesa
     - [ ] Paper: System Architecture + Hardware Design
+    - [ ] **Ingesting Robot Assets and Simulating Your Robot in Isaac Sim** — 1 hora, gratis — importas el modelo de ARIA que diseñaste en Fusion -> https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-sim/latest/ingesting-robot-assets-and-simulating-your-robot-in-isaac-sim/index.html
 
 ---
 
@@ -60,6 +64,7 @@
     - [ ] Paper: Software Design
     - [ ] Diseñar PBC Personalizada en KiCad
     - [ ] Enviara fabricar (ver si consigo una fábrica local, si no, JLCPCB)
+    - [ ] **Developing Robots with SIL in Isaac Sim** — 2 horas, gratis-> https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-sim/latest/developing-robots-with-sil-in-isaac-sim/index.html
 
 ---
 
@@ -71,6 +76,7 @@
     - [ ] Montar toda la electrónica en el chasis nuevo
     - [ ] Verificar que todo funciona igual que sobre la mesa
     - [ ] Paper: Implementación V1
+    - [ ] - **An Introduction to AI-Based Robot Development with Isaac ROS** — 30 min, gratis -> https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-ros/latest/an-introduction-to-ai-based-robot-development-with-isaac-ros/index.html
 
 ---
 
@@ -82,6 +88,7 @@
     - [ ] Boustrophedon autónomo — ARIA descubre el área solo
     - [ ] Pruebas de navegación en interior
     - [ ] Paper: Implementación V2
+    - [ ] - **Leveraging ROS 2 and HIL in Isaac Sim** — 2 horas, gratis -> https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-sim/latest/leveraging-ros-2-and-hil-in-isaac-sim/index.html
 
 ---
 
@@ -93,6 +100,7 @@
     - [ ] Fusión encoders + IMU generando mapa 3D con altimetría
     - [ ] Sistema híbrido solar + 18650 funcionando
     - [ ] Paper: Resultados y discusión
+    - [ ] - **Develop, Simulate and Deploy Robot Intelligence with General Robotics** — 1 hora, gratis -> https://docs.nvidia.com/learning/physical-ai/going-further-with-robotics/latest/develop-simulate-and-deploy-intelligence-with-general-robotics/index.html
 
 ---
 
@@ -104,6 +112,7 @@
     - [ ] Ajustes de navegación según resultados reales
     - [ ] Grabación video final V2 en campo
     - [ ] Paper: Conclusiones y trabajo futuro
+    - [ ] - **Software-in-the-Loop Testing for Robots** — 2 horas, gratis -> https://docs.nvidia.com/learning/physical-ai/going-further-with-robotics/latest/digital-twin-robotics/index.html
 
 ---
 

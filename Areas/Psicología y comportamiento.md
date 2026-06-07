@@ -12,3 +12,4 @@ Cómo se comportan los sistemas humanos, tanto individuales como colectivos.
 - [[Hot Guy Hobbies]]
 - [[(TODO) Unlearn Negative Thoughts & Behaviors Patterns]]
 - [[Manejar Múltiples Intereses]]
+- [[Identidad vs Disciplina]]

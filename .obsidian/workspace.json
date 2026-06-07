@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Datos y Programación/Introducción Raspberry Pi.md",
+                "file": "Proyectos/Roadmap ARIA V2 + CERES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción Raspberry Pi"
+              "title": "Roadmap ARIA V2 + CERES"
+            }
+          },
+          {
+            "id": "ba75b6de66da32e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Psicología y Comportamiento/Identidad vs Disciplina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identidad vs Disciplina"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +185,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "68e6e089b075cc06",
+  "active": "ba75b6de66da32e3",
   "lastOpenFiles": [
-    "Proyectos/EDENS ARIA V2.md",
-    "Proyectos/Proyecto EDEN.md",
+    "Areas/Psicología y Comportamiento/(TODO) Unlearn Negative Thoughts & Behaviors Patterns.md",
+    "Areas/Psicología y Comportamiento/Confianza Social y desensibilización.md",
+    "Areas/Psicología y Comportamiento/Manejar Múltiples Intereses.md",
+    "Areas/Psicología y comportamiento.md",
+    "Areas/Psicología y Comportamiento/Identidad vs Disciplina.md",
     "Proyectos/Roadmap ARIA V2 + CERES.md",
     "Areas/Datos y Programación/Introducción Raspberry Pi.md",
+    "Proyectos/EDENS ARIA V2.md",
+    "Proyectos/Proyecto EDEN.md",
     "Areas/Datos y Programación/GitHub Setup.md",
     "Recursos/Biblioteca.md",
     "Proyectos/Robótica para Solarpunk.md",
@@ -189,9 +209,7 @@
     "Areas/Entrenamiento, Nutrición y Salud/Rutinas de Entrenamiento.md",
     "Proyectos/Solarpunk y Futuros Sostenibles.md",
     "Areas/ÁREAS DE APRENDIZAJE.md",
-    "Areas/Psicología y comportamiento.md",
     "Areas/Ciencias Básicas/Matemáticas.md",
-    "Areas/Psicología y Comportamiento/Manejar Múltiples Intereses.md",
     "Ideas/Bullet Journal.md",
     "Ideas/IDEAS.md",
     "Recursos/RECURSOS.md",
