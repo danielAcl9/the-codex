@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "Roadmap ARIA V2 + CERES"
             }
+          },
+          {
+            "id": "b22fd63d42fcff6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Datos y Programación/Robótica/A Beginner's Guide to Autonomous Robots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Beginner's Guide to Autonomous Robots"
+            }
+          },
+          {
+            "id": "bae4956b9efa2366",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,14 +195,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "68e6e089b075cc06",
+  "active": "bae4956b9efa2366",
   "lastOpenFiles": [
+    "Areas/Datos y Programación/Robótica/A Beginner's Guide to Autonomous Robots.md",
+    "Areas/Datos y Programación/Robótica",
+    "Areas/Datos y Programación/Robótica/Cursos de Robótica.md",
+    "Proyectos/Roadmap ARIA V2 + CERES.md",
     "Areas/Psicología y Comportamiento/Identidad vs Disciplina.md",
     "Areas/Psicología y Comportamiento/(TODO) Unlearn Negative Thoughts & Behaviors Patterns.md",
     "Areas/Psicología y Comportamiento/Confianza Social y desensibilización.md",
     "Areas/Psicología y Comportamiento/Manejar Múltiples Intereses.md",
     "Areas/Psicología y comportamiento.md",
-    "Proyectos/Roadmap ARIA V2 + CERES.md",
     "Areas/Datos y Programación/Introducción Raspberry Pi.md",
     "Proyectos/EDENS ARIA V2.md",
     "Proyectos/Proyecto EDEN.md",
