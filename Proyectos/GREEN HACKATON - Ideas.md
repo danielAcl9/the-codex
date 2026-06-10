@@ -18,3 +18,6 @@ plataforma donde conocimiento técnico y ancestral coexisten como bien común. A
 
 ---
 Buena noticia sobre el Almanaque: el _Old Farmer's Almanac_ tiene datos de siembra por zona geográfica en almanac.com — no tiene API pública pero sí es scrapeable y sus ediciones históricas son dominio público. El Bristol Almanack (UK) es más histórico/astronómico que agrícola. Para un MVP en 48h, el Old Farmer's Almanac + Wikipedia de cultivos locales + datos curados a mano es lo más realista como "capa ancestral".
+
+[[PROYECTOS]]
+[[Solarpunk y Futuros Sostenibles]]

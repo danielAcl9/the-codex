@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68e6e089b075cc06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyectos/Roadmap ARIA V2 + CERES.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roadmap ARIA V2 + CERES"
-            }
-          },
-          {
             "id": "b22fd63d42fcff6f",
             "type": "leaf",
             "state": {
@@ -36,35 +22,31 @@
             }
           },
           {
-            "id": "bae4956b9efa2366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyectos/Roadmap ARIA V2 + CERES.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roadmap ARIA V2 + CERES"
-            }
-          },
-          {
             "id": "ec7455ee7f2cbe5f",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "dc26596bf79b0d11",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/GREEN HACKATON - Ideas.md",
+                "file": "Proyectos/EDEN Commons — Project Codex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GREEN HACKATON - Ideas"
+              "title": "EDEN Commons — Project Codex"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +195,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "767717deb47c1c4f",
+  "active": "ec7455ee7f2cbe5f",
   "lastOpenFiles": [
-    "Proyectos/Roadmap ARIA V2 + CERES.md",
     "Proyectos/GREEN HACKATON - Ideas.md",
     "Areas/Datos y Programación/Robótica/A Beginner's Guide to Autonomous Robots.md",
+    "Proyectos/EDEN Commons — Project Codex.md",
+    "Proyectos/Roadmap ARIA V2 + CERES.md",
     "Areas/Datos y Programación/Robótica",
     "Areas/Datos y Programación/Robótica/Cursos de Robótica.md",
     "Areas/Psicología y Comportamiento/Identidad vs Disciplina.md",
@@ -246,7 +229,6 @@
     "Ideas/IDEAS.md",
     "Recursos/RECURSOS.md",
     "Recursos/Images/ARIA",
-    "Pasted image 20260423213621.png",
-    "Proyectos/PROYECTOS.md"
+    "Pasted image 20260423213621.png"
   ]
 }
