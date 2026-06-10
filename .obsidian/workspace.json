@@ -39,14 +39,32 @@
             "id": "bae4956b9efa2366",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Roadmap ARIA V2 + CERES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap ARIA V2 + CERES"
+            }
+          },
+          {
+            "id": "ec7455ee7f2cbe5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/GREEN HACKATON - Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GREEN HACKATON - Ideas"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,12 +213,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "bae4956b9efa2366",
+  "active": "767717deb47c1c4f",
   "lastOpenFiles": [
+    "Proyectos/Roadmap ARIA V2 + CERES.md",
+    "Proyectos/GREEN HACKATON - Ideas.md",
     "Areas/Datos y Programación/Robótica/A Beginner's Guide to Autonomous Robots.md",
     "Areas/Datos y Programación/Robótica",
     "Areas/Datos y Programación/Robótica/Cursos de Robótica.md",
-    "Proyectos/Roadmap ARIA V2 + CERES.md",
     "Areas/Psicología y Comportamiento/Identidad vs Disciplina.md",
     "Areas/Psicología y Comportamiento/(TODO) Unlearn Negative Thoughts & Behaviors Patterns.md",
     "Areas/Psicología y Comportamiento/Confianza Social y desensibilización.md",
