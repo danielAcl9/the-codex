@@ -30,7 +30,7 @@
 
 - Necesario para: validar que toda la electrónica funciona antes de imprimir nada físico
 - Tareas:
-    - [ ] Instalar Ubuntu + ROS en Raspberry Pi 4 (Se instala en el RPi, no en mi computador)
+    - [x] Instalar Ubuntu + ROS en Raspberry Pi 4 (Se instala en el RPi, no en mi computador)
     - [ ] Comunicación RPi ↔ Arduino funcionando
     - [ ] Comprar: 4 motores TT + 3x TB6612FNG + encoders IR
     - [ ] Primer nodo ROS controlando los 6 motores sobre mesa
