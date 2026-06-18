@@ -31,7 +31,14 @@
 - Necesario para: validar que toda la electrónica funciona antes de imprimir nada físico
 - Tareas:
     - [x] Instalar Ubuntu + ROS en Raspberry Pi 4 (Se instala en el RPi, no en mi computador)
-    - [ ] Comunicación RPi ↔ Arduino funcionando
+    - [x] Comunicación RPi ↔ Arduino funcionando
+	- [ ] **Trabajo para hacer mientras consigo el dinero para los motores**
+		- Aprender ROS — tutoriales básicos de nodos y topics
+		- Curso NVIDIA — A Beginner's Guide to Autonomous Robots
+		- Arquitectura modular — definirla en Obsidian
+		- GitHub + README de V1
+		- Practicar Fusion 360
+		**Sobre la rifa:** Organizar esta semana.
     - [ ] Comprar: 4 motores TT + 3x TB6612FNG + encoders IR
     - [ ] Primer nodo ROS controlando los 6 motores sobre mesa
     - [ ] Paper: Introduction + Related Work
