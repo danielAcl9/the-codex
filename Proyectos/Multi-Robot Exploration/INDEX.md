@@ -2,15 +2,18 @@
 *Central index — last updated: September 2026*
 
 ## Status
+
 → [[STATUS]] — dónde estoy ahora y qué sigue
 
 ## Project
+
 → [[RESEARCH]] — pregunta de investigación y literatura
 → [[ROADMAP]] — fases y timeline
 → [[HARDWARE]] — inventario y necesidades
 → [[STACK]] — tecnologías y decisiones técnicas
 
 ## Knowledge
+
 → [[PAPERS]] — papers leídos y gaps encontrados
 
 ## One-liner
