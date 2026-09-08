@@ -1,4 +1,4 @@
-# 🤖 Multi-Robot Exploration Platform
+# Multi-Robot Exploration Platform
 *Central index — last updated: September 2026*
 
 ## Status
@@ -20,6 +20,6 @@
 *Developing a multi-robot autonomous exploration system where ground robots collaboratively explore unknown environments, share partial information, and make autonomous decisions about where to explore next.*
 
 ## Target
-Masters application — TUM / KAIST / MIT — Spring 2027
+Masters application — Universidades de Alto Calibre — Inicios o mediados 2027
 TOEFL target: November 2026
 

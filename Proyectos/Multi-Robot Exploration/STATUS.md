@@ -1,4 +1,4 @@
-# 📋 Project Status
+# Project Status
 
 ## Current Phase
 Problem-discovery / Research-definition
@@ -9,19 +9,18 @@ Problem-discovery / Research-definition
 - [ ] Anotar por cada paper: problema que resuelve, limitaciones, qué deja abierto
 - [ ] TOEFL — confirmar fecha de examen con coordinadora académica
 
-## Blockers
-- Pregunta de investigación exacta no definida — depende de la literatura
-- Research question pendiente de revisión de estado del arte
+## Bloqueos actuales
+- Pregunta de investigación exacta no definida, depende de la literatura
 
 ## Last Session
-- September 2026
+- 7 September 2026
 - Redefinición completa del proyecto
 - Descartado ARIA como proyecto principal agrícola
 - Nuevo eje: autonomous multi-robot exploration + learning-based coordination
 - Documento central del proyecto redactado
 
 ## Decisions Made
-- El proyecto no es ARIA agrícola — es una plataforma de exploración multi-robot
+- El proyecto es una plataforma de exploración multi-robot
 - El hardware existente (RPi, Arduino, motores, encoders, MPU6050) sigue siendo válido
 - Simulación primero, hardware después
 - Pregunta de investigación: encontrarla en la literatura, no inventarla

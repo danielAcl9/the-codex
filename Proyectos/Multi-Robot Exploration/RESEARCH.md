@@ -1,7 +1,7 @@
-# 🔬 Research
+# Research
 
 ## Working Project Statement
-* I am developing a multi-robot autonomous exploration system in which ground robots collaboratively explore unknown environments, share partial information, and make autonomous decisions about where to explore next. The project investigates whether learning-based coordination can improve exploration efficiency and robustness under realistic constraints such as limited communication, battery resources, partial observability, and robot failures.*
+I am developing a multi-robot autonomous exploration system in which ground robots collaboratively explore unknown environments, share partial information, and make autonomous decisions about where to explore next. The project investigates whether learning-based coordination can improve exploration efficiency and robustness under realistic constraints such as limited communication, battery resources, partial observability, and robot failures.*
 
 ## Core Question
 How can a group of autonomous robots collaboratively explore an unknown environment and decide what to do next using incomplete information?
@@ -10,19 +10,19 @@ How can a group of autonomous robots collaboratively explore an unknown environm
 
 ## Candidate Directions
 
-### Direction A — Autonomous decision-making
+### Direction A: Autonomous decision-making
 Can individual robots learn what to do without explicit programming?
 - explore, stop, change zone, investigate anomaly, return, help another robot
 
-### Direction B — Coordination under constraints
+### Direction B: Coordination under constraints
 Can robots learn how to work together under realistic limits?
 - distribute zones, avoid redundancy, adapt when one fails
 - battery constraints, communication limits
 
-### Direction C — Perception + collective decision-making
+### Direction C: Perception + collective decision-making
 Can robots use perception to build collective understanding and decide as a system?
 
-**Current hypothesis:** Direction B or C — or their intersection — is where the most meaningful contribution lies.
+**Current hypothesis:** Direction B or C, or something in between is where the most meaningful contribution lies.
 
 ## Research Philosophy
 - Problem
