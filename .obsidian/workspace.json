@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/Multi-Robot Exploration/STATUS.md",
+                "file": "Proyectos/PROYECTOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STATUS"
+              "title": "PROYECTOS"
             }
           }
         ]
@@ -170,14 +170,21 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b22fd63d42fcff6f",
+  "active": "767717deb47c1c4f",
   "lastOpenFiles": [
-    "Proyectos/Multi-Robot Exploration/INDEX.md",
-    "Proyectos/Multi-Robot Exploration/RESEARCH.md",
-    "Proyectos/Multi-Robot Exploration/STATUS.md",
+    "Proyectos/Multi-Robot Exploration/Multi-Robot Exploration Platform.md",
+    "Proyectos/PROYECTOS.md",
     "Proyectos/Roadmap ARIA V2 + CERES.md",
-    "Areas/Datos y Programación/Robótica/Raspberry Pi 4 — Instalación Ubuntu 24.04 + ROS 2 Jazzy.md",
+    "Proyectos/Multi-Robot Exploration/PAPERS.md",
+    "Proyectos/Multi-Robot Exploration/STACK.md",
+    "Recursos/Pasted image 20260531172729.png",
+    "Proyectos/Multi-Robot Exploration/HARDWARE.md",
+    "Proyectos/Multi-Robot Exploration/ROADMAP.md",
+    "Proyectos/Multi-Robot Exploration/STATUS.md",
     "Areas/Datos y Programación/GitHub Setup.md",
+    "Ideas/Conventional Commits para el Codex.md",
+    "Proyectos/Multi-Robot Exploration/RESEARCH.md",
+    "Areas/Datos y Programación/Robótica/Raspberry Pi 4 — Instalación Ubuntu 24.04 + ROS 2 Jazzy.md",
     "Proyectos/EDEN Commons — Project Codex.md",
     "Areas/Datos y Programación.md",
     "Areas/Datos y Programación/Robótica/A Beginner's Guide to Autonomous Robots.md",
@@ -193,16 +200,9 @@
     "Proyectos/EDENS ARIA V2.md",
     "Proyectos/Proyecto EDEN.md",
     "Recursos/Biblioteca.md",
-    "Proyectos/Robótica para Solarpunk.md",
-    "Proyectos/EDENS ARIA.md",
-    "Ideas/Conventional Commits para el Codex.md",
-    "Pasted image 20260531172729.png",
     "Recursos/Images/ARIA/ARIA_Mech.png",
     "Recursos/Images/ARIA/ARIA_PROTO1.png",
     "Recursos/Images/ARIA/ARIA_Wireframe.png",
-    "Areas/Entrenamiento, Nutrición y Salud/Cardio útil para bulk.md",
-    "Areas/Entrenamiento, Nutrición y Salud/Rutinas de Entrenamiento.md",
-    "Proyectos/Solarpunk y Futuros Sostenibles.md",
     "Recursos/Images/ARIA",
     "Pasted image 20260423213621.png"
   ]

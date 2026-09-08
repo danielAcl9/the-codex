@@ -1,5 +1,4 @@
-# Multi-Robot Exploration Platform
-*Central index — last updated: September 2026*
+### Central index — last updated: September 2026
 
 ## Status
 
