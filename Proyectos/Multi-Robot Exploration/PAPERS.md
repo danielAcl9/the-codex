@@ -20,6 +20,7 @@ Para cada paper:
 
 ## Papers Read
 - [ ] (TODO) - [Multi-Agent Deep Reinforcement Learning for Multi-Robot Applications: A Survey](https://www.mdpi.com/1424-8220/23/7/3625)
+	- [ ] Presenta varios algoritmos, ideas de problemas que se han hecho ya, revisando que son y determinando si son válidos para lo que yo quiero hacer
 - [ ] (TODO) - [Deep Reinforcement Learning for Decentralized Multi-Robot Exploration With Macro Actions](https://ieeexplore.ieee.org/abstract/document/9963690)
 - [ ] (TODO) - [MARVEL: Multi-Agent Reinforcement Learning for Constrained Field-of-View Multi-Robot Exploration in Large-Scale Environments](https://ieeexplore.ieee.org/abstract/document/11127700)
 
