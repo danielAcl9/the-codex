@@ -13,6 +13,21 @@ Robust coordination under realistic constraints, using central perception as a b
 
 *¿Puede un swarm de robots aprender políticas de coordinación que mantengan eficiencia de exploración cuando la comunicación es intermitente/limitada y algún robot puede fallar, y en qué medida una representación de percepción compartida (vs. independiente) mejora esa robustez?*
 
+**A arreglar:**
+1. Son 2 preguntas en una. (Lo mejor sería que lo primero fuera la pregunta, y lo segundo una ablación.)
+2. El conflicto: un mapa compartido solo se actualiza cuando los robots se comunican. Si la comunicación se cae, cada robot queda con un mapa desactualizado y la "percepción compartida" deja de ser compartida.
+	1. Eso puede ser mi contribución: ¿Cuánto sirve la percepción compartida cuando se degrada, y cuándo es peor que la independiente? Pero se tendría que ponerlo explícito en la pregunta, no dejarlo implícito.
+3. Alcance experimental
+	- Simulación: escala (decenas de robots), entrenamiento y evaluación principal.
+	- Hardware: 3 a 5 rovers reales (número a fijar según presupuesto) para validar transferencia sim-to-real.
+	- Qué valida el hardware: que la política se transfiere y que la degradación por comunicación limitada se parece a la de la simulación.
+	- Qué NO se afirma con hardware: conclusiones de escala. Eso sale solo de la simulación.
+4. Baselines: *punto de referencia para saber si la política aprendida aporta frente a lo que ya existe.*
+	- Candidatos sin aprendizaje: exploración por fronteras, asignación por subasta.
+	- Pregunta de evaluación: ¿le gana a los baselines, y en qué condiciones? (comunicación limitada, fallos, comunicación perfecta).
+	- Reportar dónde pierde también: es un hallazgo, no un fracaso.
+	- Pendiente: ver qué baselines se repiten en los papers del área (anotar 2 o 3) y definir los míos.
+
 #### Investigación Pendiente
 - [ ] ==Comunicación Limitada/intermitente en exploración multi-robot==
 	- Papers que traten específicamente "limited communication", "intermittent connectivity" o "communication-aware exploration" en multi-robot systems. **Pregunta clave: Como otros han modelado esa restricción y que tan resuelto está.**
