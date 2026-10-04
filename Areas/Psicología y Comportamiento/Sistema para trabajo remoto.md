@@ -13,7 +13,7 @@ Objetivo: que esta vez el trabajo remoto funcione. Rutina estable, límites clar
 | 6:15 a 6:45 | Calistenia o movilidad                   |
 | 6:45 a 7:15 | Paseo con Leo (el "trayecto" al trabajo) |
 | 7:15 a 7:40 | Ducha, desayuno, ropa de trabajo         |
-| 7:40 a 7:55 | Preparación del día                      |
+| 7:40 a 7:55 | Preparación del día (+Stillness)         |
 | 8:00        | Disponible y listo a trabajar.           |
 
 - Desde el 1 nov, todo se corre una hora. Decidir entonces qué hacer con la hora libre (Mente 15 min).

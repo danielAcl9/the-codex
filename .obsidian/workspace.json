@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b22fd63d42fcff6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Psicología y comportamiento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psicología y comportamiento"
-            }
-          },
-          {
-            "id": "23e08023ba97f3d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Psicología y comportamiento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psicología y comportamiento"
-            }
-          },
-          {
             "id": "ac67da82bb0afafc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revisión Semanal.md",
+                "file": "Areas/Psicología y comportamiento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisión Semanal"
+              "title": "Psicología y comportamiento"
             }
           },
           {
@@ -59,8 +31,7 @@
               "title": "Vista gráfica"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "cb866e7103239405",
@@ -214,14 +184,16 @@
   },
   "active": "ac67da82bb0afafc",
   "lastOpenFiles": [
-    "Revisión Semanal.md",
-    "Areas/Psicología y comportamiento.md",
+    "Areas/Filosofía e Historia.md",
+    "Ideas/Conventional Commits para el Codex.md",
+    "Areas/Filosofía e Historia/Referentes Históricos de Polímatas.md",
     "Areas/Psicología y Comportamiento/Sistema para trabajo remoto.md",
+    "Areas/Psicología y Comportamiento/Revisión Semanal.md",
+    "Areas/Psicología y comportamiento.md",
     "Areas/Psicología y Comportamiento/Hot Guy Hobbies.md",
     "Areas/ÁREAS DE APRENDIZAJE.md",
     "Proyectos/Multi-Robot Exploration/RESEARCH.md",
     "Areas/Entrenamiento, Nutrición y Salud/Chinese Granpa Maxxing.md",
-    "Ideas/Conventional Commits para el Codex.md",
     "Proyectos/Multi-Robot Exploration/PAPERS.md",
     "Proyectos/Multi-Robot Exploration/Multi-Robot Exploration Platform.md",
     "Proyectos/Multi-Robot Exploration/ROADMAP.md",
@@ -239,8 +211,6 @@
     "Proyectos/Multi-Robot Exploration/STACK.md",
     "Recursos/Pasted image 20260531172729.png",
     "Areas/Datos y Programación/GitHub Setup.md",
-    "Areas/Datos y Programación/Robótica/Raspberry Pi 4 — Instalación Ubuntu 24.04 + ROS 2 Jazzy.md",
-    "Proyectos/EDEN Commons — Project Codex.md",
     "Areas/Datos y Programación/Robótica",
     "Recursos/Images/ARIA/ARIA_Mech.png",
     "Recursos/Images/ARIA/ARIA_PROTO1.png",
